@@ -4,7 +4,7 @@ Check out the cool images inside 'output' folder
 
 ## 🛠️ Function and initial value
 
-\frac{dy}{dx} = f(x, y) = 4e^{0.8x} - 0.5y,\quad 
+dy/dx = f(x, y) = 4e^(0.8x) - 0.5y
 
 y(0) = 2
 
